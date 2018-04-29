@@ -1,0 +1,4 @@
+#Fri Mar 16 11:34:07 CST 2018
+base.0=D\:\\work\\HDMI_BLUE201803161128\\HDMI_BLUE\\Tbc_Hdmi_Switch\\app\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

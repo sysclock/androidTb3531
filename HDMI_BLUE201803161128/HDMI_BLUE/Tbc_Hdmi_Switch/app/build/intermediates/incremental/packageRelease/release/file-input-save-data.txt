@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Mar 16 11:34:07 CST 2018
+0.baseType=DIRECTORY
+0.base=D\:\\work\\HDMI_BLUE201803161128\\HDMI_BLUE\\Tbc_Hdmi_Switch\\app\\build\\intermediates\\transforms\\dex\\release\\0
+0.path=classes.dex
+0.set=DEX
+count=1
